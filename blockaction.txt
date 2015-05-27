@@ -1,0 +1,1 @@
+Block on All Sites,Block on G Sites,Block on G & PG Sites,Block on Non-Political Sites,Block in UI,Keep on file
